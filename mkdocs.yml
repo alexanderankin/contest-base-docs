@@ -1,0 +1,4 @@
+site_name: Contest-Base Docs
+markdown_extensions:
+  - toc:
+      permalink: "#"
